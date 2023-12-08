@@ -1,0 +1,22 @@
+{
+  "name": "fedr",
+  "version": "1.0.0",
+  "description": "Front-End Developer's Resource",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Hello, Node.js!');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToussaintPhillips/FEDR.git"
+  },
+  "keywords": [
+    "fedr"
+  ],
+  "author": "Toussaint Phillips",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToussaintPhillips/FEDR/issues"
+  },
+  "homepage": "https://github.com/ToussaintPhillips/FEDR#readme"
+}
